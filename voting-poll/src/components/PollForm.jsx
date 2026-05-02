@@ -37,6 +37,6 @@ function PollForm({ addPoll }) {
       </form>
     </div>
   );
-}
+} 
 
 export default PollForm;
